@@ -11,6 +11,8 @@ from scipy.optimize import fsolve
 '''
 We added code to try and calculate the state 2 properties. When adding this code, our dialog box exits when we 
 press calculate. We tried editing the code to find a work around but could not figure it out
+
+Team: Ethan Brown, Brandon Bradshaw
 '''
 
 
